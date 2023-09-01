@@ -1,5 +1,6 @@
 # MarineGrowthFarm
 
+## Link for KISSANGPT: https://61159131e4acd6d41c.gradio.live/
 ### App Screenshots
 
 | <img src="./img/view_news.gif"> | <img src="./img/monitor_iot.gif"> | <img src="./img/detect_disease.gif"> |
